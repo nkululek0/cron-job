@@ -16,5 +16,8 @@
     "url": "https://github.com/nkululek0/cron-job/issues"
   },
   "homepage": "https://github.com/nkululek0/cron-job#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "node-cron": "^4.2.1"
+  }
 }
